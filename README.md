@@ -1,9 +1,15 @@
 
-### Hi there 👋, I am Divya Rao
-#### Web Developer
-I am a passionate web developer . I like taking up challenges and working on front-end development .
-
-Skills: React.js / HTML / CSS / Material UI / Python / JavaScript / Java
+### Hi there 👋, I am Divya Rao👩
+<br>
+#### Web Developer💻
+◻ I am a passionate third year engineering student. 
+◻ I like taking up challenges and working on front-end development .
+<br>
+### Skills:
+⚡Python ⚡JavaScript ⚡Java
+⚡React.js ⚡Node.js
+⚡Mongo
+⚡Material UI ⚡Bootstrap ⚡HTML ⚡CSS
 
 - 🔭 I’m currently working on https://github.com/YogeshUpdhyay/ProjectsApp 
 
