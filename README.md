@@ -1,37 +1,23 @@
+<h2> Hi, I'm Divya Rao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Third year Engineering student at <a href="http://www.unb.br">DJSCE,Mumbai</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>FrontEnd Developer<a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-### Hi there 👋, I am Divya Rao👩
-
-#### Web Developer💻
-◻ I am a passionate third year engineering student. 
-◻ I like taking up challenges and working on front-end development .
-
-### Skills:
-⚡Python ⚡JavaScript ⚡Java
-⚡React.js ⚡Node.js
-⚡Mongo
-⚡Material UI ⚡Bootstrap ⚡HTML ⚡CSS
-
-- 🔭 I’m currently working on https://github.com/YogeshUpdhyay/ProjectsApp 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dsrao711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/divya-rao-739a8b143//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://divyarao.netlify.app/)  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsrao711)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dsrao711&show_icons=true&count_private=true)  
+```javascript
+const divya = {
 
+  pronouns: "she" | "her",
+  code: [Javascript, Python, Java , HTML, CSS],
+  tools: [React,Node,Styled-Components,Material UI,Bootstrap]
+  
+}
+```
 
-
-![Profile views](https://gpvc.arturio.dev/dsrao711)  
-<!--
-**dsrao711/dsrao711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
