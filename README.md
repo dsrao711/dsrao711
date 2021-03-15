@@ -15,7 +15,8 @@ const divya = {
 
   pronouns: "she" | "her",
   code: [Javascript, Python, Java , HTML, CSS],
-  tools: [React,Node,Styled-Components,Material UI,Bootstrap]
+  frameworks and libraries : [Django , React.js , Bootstrap , Material UI],
+  database : [MySQL]
   
 }
 ```
