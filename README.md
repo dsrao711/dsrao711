@@ -20,7 +20,7 @@ const divya = {
   
 }
 ```
-[![Divya's github stats](https://github-readme-stats.vercel.app/api?username=dsrao711&theme=blue-green)](https://github.com/dsrao711/github-readme-stats)
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsrao711&show_icons=true&theme=dracula)
 
 [![Divya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsrao711&theme=blue-green)](https://github.com/dsrao711/github-readme-stats)
 
