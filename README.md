@@ -1,5 +1,5 @@
 <h2> Hi, I'm Divya Rao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://i.postimg.cc/tRzjyvNM/my-octocat-1619300135908.png" width="350" height = "400">
 <p><em>Third year Engineering student at <a href="http://www.djsce.ac.in/">DJSCE,Mumbai</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
