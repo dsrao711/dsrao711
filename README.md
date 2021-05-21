@@ -1,27 +1,52 @@
-<h2> Hi, I'm Divya Rao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.postimg.cc/tRzjyvNM/my-octocat-1619300135908.png" width="350" height = "400">
-<p><em>Third year Engineering student at <a href="http://www.djsce.ac.in/">DJSCE,Mumbai</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2 align = "center"> Hi, I'm Divya Rao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Linkedin: Divya](https://img.shields.io/badge/-divyarao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divya-rao-739a8b143/)](https://www.linkedin.com/in/divya-rao-739a8b143/)
-[![GitHub Divya](https://img.shields.io/github/followers/dsrao711?label=follow&style=social)](https://github.com/dsrao711)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://divyarao0712.netlify.app/)
+<p align = "center">
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/QxbWjZQ2/0-K2-WLMTEx-Lyida7-OR.gif' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+</p>
 
+
+<div align = "center">
+  
+![image](https://img.shields.io/badge/Gmail-dsrao0712?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-739a8b143?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-dsrao711?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/-Hackerrank-dsrao07?style=for-the-badge&logo=HackerRank&logoColor=white)
+  
+</div>
+
+
+<div align = "center">
+  <h4>I am a third year engineering student at DJSCE Mumbai👩🏻‍🎓</h4>
+ 
+   👩‍💻My skill set includes :
+  
+  ```
+    1. Languages : Python , Java , Javascript , C , C++
+    2. Frontend : HTML , CSS , JS , React.js , Material UI , Bootstrap
+    3. Backend : Flask , Node.js , Express.js
+    4. Database : SQL , MongoDB
+    5. Python Libraries : OpenCV , Tesseract , Pandas , Numpy , Seaborn , matplotlib, Plotly 
+  
+  ```
+  
+  Currently , I am working on Data analysis and DSA conecepts in Python
+  
+</div>
+  
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const divya = {
-
-  pronouns: "she" | "her",
-  code: [Javascript, Python, Java , HTML, CSS],
-  frameworks and libraries : [Django , React.js , Bootstrap , Material UI],
-  database : [MySQL]
+<div align = "center">
   
-}
-```
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsrao711&show_icons=true&theme=dracula)
 
-[![Divya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsrao711&theme=blue-green)](https://github.com/dsrao711/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dsrao711&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsrao711&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsrao711&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dsrao711&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dsrao711&theme=dracula)
+  
+</div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b><a href = "mailto: dsrao0712@gmail.com">See you📩</a></em>
+<hr/>
+
+<em><b>👩‍💻I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b><a href = "mailto: dsrao0712@gmail.com">See you📩</a></em>
