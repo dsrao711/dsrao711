@@ -7,10 +7,10 @@
 
 <div align = "center">
  
-<a href='https://postimages.org/' target='_blank'><img src='https://img.shields.io/badge/Gmail-dsrao0712?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
-<a href='https://postimages.org/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-739a8b143?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
- <a href='https://postimages.org/' target='_blank'><img src='https://img.shields.io/badge/GitHub-dsrao711?style=for-the-badge&logo=github&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
- <a href='https://postimages.org/' target='_blank'><img src='https://img.shields.io/badge/-Hackerrank-dsrao07?style=for-the-badge&logo=HackerRank&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+<a href = "mailto:dsrao0712@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail-dsrao0712?style=for-the-badge&logo=gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+<a href='https://www.linkedin.com/in/divya-rao-739a8b143/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-739a8b143?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+ <a href='https://github.com/dsrao711' target='_blank'><img src='https://img.shields.io/badge/GitHub-dsrao711?style=for-the-badge&logo=github&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+ <a href='https://www.hackerrank.com/dsrao0712' target='_blank'><img src='https://img.shields.io/badge/-Hackerrank-dsrao07?style=for-the-badge&logo=HackerRank&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
  
  
 </div>
@@ -19,7 +19,7 @@
 <div align = "center">
   <h4>I am a third year engineering student at DJSCE Mumbai👩🏻‍🎓</h4>
  
-   👩‍💻My skill set includes :
+ <h4>👩‍💻Skill set:</h4>
   
   ```
     1. Languages : Python , Java , Javascript , C , C++
