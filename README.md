@@ -1,4 +1,4 @@
-<h2 align = "center"> Hi, I'm Divya Rao <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align = "center"> Hi, I'm <a href = "https://divyarao0712.netlify.app/"> Divya Rao</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align = "center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/QxbWjZQ2/0-K2-WLMTEx-Lyida7-OR.gif' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
