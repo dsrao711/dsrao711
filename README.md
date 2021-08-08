@@ -1,4 +1,4 @@
-![Divya Rao (1)](https://user-images.githubusercontent.com/59830064/128628035-6f65222b-d6ba-4d6f-a447-541e609b1964.png)
+![Divya Rao (2)](https://user-images.githubusercontent.com/59830064/128630786-e45071a3-28ec-424b-8a4f-ba40f68ff9f0.png)
 
 <div align = "center">
  
