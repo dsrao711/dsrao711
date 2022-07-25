@@ -9,7 +9,8 @@
  
 </div>
 <div>
- <p>🔸I am a final year student at DJ Sanghvi College of Engineering , Mumbai</p>
+ <p>🔸Incoming SWE @Accolite </p>
+ <p>🔸EXTC (2018-22) - DJ Sanghvi College of Engineering , Mumbai</p>
  <p>🔸I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b><a href = "mailto: dsrao0712@gmail.com">See you📩</a></p>
  <p>🔸Check out my DSA solutions</b><a href = "https://somber-approval-8f1.notion.site/DSA-Solutions-34100a8ab92f42029011dcf591668343"> here😉</a></p>
 </div>
