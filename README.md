@@ -9,7 +9,6 @@
  
 </div>
 <div>
- <p>🔸Incoming SWE @Accolite </p>
  <p>🔸EXTC (2018-22) - DJ Sanghvi College of Engineering , Mumbai</p>
  <p>🔸I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b><a href = "mailto: dsrao0712@gmail.com">See you📩</a></p>
  <p>🔸Check out my blogs here </b><a href = "https://medium.com/@dsrao0712"> here😉</a></p>
