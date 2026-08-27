@@ -70,4 +70,4 @@ CGPA 9.65/10, University Top 10%
 
 ---
 
-<p align="center"><i>Open to Senior PM conversations — feel free to reach out.</i></p>
+<p align="center"><i>Open to conversations — feel free to reach out.</i></p>
