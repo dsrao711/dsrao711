@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divya Rao 👋</h1>
-<h3 align="center">Product Manager building AI-powered SaaS · Ex-Software Engineer</h3>
+<h3 align="center">Product Manager · Ex-Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/divya-rao-739a8b143"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
